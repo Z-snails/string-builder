@@ -1,0 +1,10 @@
+[custom.all.string-builder]
+type = "local"
+path = "."
+ipkg = "string-builder.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.string-builder-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
